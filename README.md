@@ -17,8 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ocean.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ocean.dev" height="30" width="40" /></a>
-<a href="https://codesandbox.com/webstorm, visual studio code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="webstorm, visual studio code" height="30" width="40" /></a>
 <a href="https://discord.gg/68gHujY2dw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="68gHujY2dw" height="30" width="40" /></a>
 </p>
 
